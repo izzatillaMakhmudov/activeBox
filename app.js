@@ -33,7 +33,7 @@ $(function(){
         nav.removeClass("show");
 
         $("html, body").animate({
-            scrollTop: elementOffset - 60https://github.com/izzatillaMakhmudov/activeBox.git
+            scrollTop: elementOffset - 60
         }, 700);
 
     })
